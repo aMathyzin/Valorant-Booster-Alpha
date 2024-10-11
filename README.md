@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://amathyzin.com/discord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://youtube.com/@amathyzin"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://amathyzin.com/downloads/ValorantBoosterAlpha"><img src="https://img.shields.io/badge/Download-Valorant%20Booster-blue?style=for-the-badge&logo=download" alt="Download"></a>
   <img src="https://img.shields.io/badge/version-0.1-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/status-pre--alpha-orange?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/license-proprietary-red?style=for-the-badge" alt="License">
