@@ -19,7 +19,7 @@
 
 **Valorant Booster** (versão Batch) é uma ferramenta simples de otimização para o jogo Valorant, desenvolvida pelo **Grupo aMathyzin**. Esta versão sem interface gráfica foi projetada para melhorar o desempenho do jogo diretamente via scripts Batch, otimizando gráficos, sistema e rede.
 
-Esta versão é **Pré-Alpha** e distribuída exclusivamente através do nosso [servidor no Discord](https://amathyzin.com/discord).
+Esta versão é **Pré-Alpha** e distribuída exclusivamente através do nosso [Site Oficial](https://amathyzin.com/downloads/ValorantBoosterPreAlpha).
 
 ---
 
@@ -34,7 +34,7 @@ Esta versão é **Pré-Alpha** e distribuída exclusivamente através do nosso [
 
 ## 📦 Instalação
 
-1. Entre no nosso [servidor no Discord](https://amathyzin.com/discord) e baixe o **Valorant Booster** versão Batch.
+1. Entre no nosso [site](https://amathyzin.com/downloads/ValorantBoosterPreAlpha) e baixe o **Valorant Booster** versão Batch.
 2. Extraia o arquivo em uma pasta de sua escolha.
 3. Execute o `Valorant Booster Pré Alpha.bat` diretamente no Windows e siga as instruções da tecla 6 na tela.
 
