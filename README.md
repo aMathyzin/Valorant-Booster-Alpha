@@ -36,14 +36,14 @@ Esta versão é **Pré-Alpha** e distribuída exclusivamente através do nosso [
 
 1. Entre no nosso [servidor no Discord](https://amathyzin.com/discord) e baixe o **Valorant Booster** versão Batch.
 2. Extraia o arquivo em uma pasta de sua escolha.
-3. Execute o `ValorantBooster.bat` diretamente no Windows e siga as instruções na tela.
+3. Execute o `Valorant Booster Pré Alpha.bat` diretamente no Windows e siga as instruções da tecla 6 na tela.
 
 ### **Requisitos**
 
 - **Sistema Operacional:** Windows 7 ou superior
-- **Memória RAM:** 4 GB ou mais
+- **Memória RAM:** 2 GB ou mais
 - **Processador:** Dual-core 2.0 GHz ou superior
-- **Espaço em Disco:** 50 MB de espaço disponível
+- **Espaço em Disco:** 1 MB de espaço disponível
 
 ---
 
