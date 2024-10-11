@@ -1,4 +1,4 @@
-<h1 align="center">Valorant Booster - Versão Pré-Alpha</h1>
+<h1 align="center">Valorant Booster - Versão Pré-Alpha (Batch)</h1>
 
 <p align="center">
   <img src="https://amathyzin.com/downloads/icons/VB.png" alt="Valorant Booster Logo" width="150" height="150"/>
@@ -14,48 +14,28 @@
 
 ---
 
-## 🚀 Sobre o Valorant Booster
+## 🚀 Sobre o Valorant Booster (Batch)
 
-**Valorant Booster** é uma ferramenta de otimização para o jogo Valorant, desenvolvida pelo **Grupo aMathyzin**. Ele permite melhorar o desempenho do jogo, otimizar gráficos e reduzir a latência, oferecendo uma experiência mais fluida.
+**Valorant Booster** (versão Batch) é uma ferramenta simples de otimização para o jogo Valorant, desenvolvida pelo **Grupo aMathyzin**. Esta versão sem interface gráfica foi projetada para melhorar o desempenho do jogo diretamente via scripts Batch, otimizando gráficos, sistema e rede.
 
-Este software é gratuito e distribuído exclusivamente através do nosso [servidor no Discord](https://amathyzin.com/discord).
+Esta versão é **Pré-Alpha** e distribuída exclusivamente através do nosso [servidor no Discord](https://amathyzin.com/discord).
 
 ---
 
 ## 🛠️ Funcionalidades
 
-- **Otimização de Desempenho** <i class="fa-solid fa-bolt"></i>: Melhore o FPS e otimize o uso dos recursos do sistema.
-- **Otimização Gráfica** <i class="fa-solid fa-tv"></i>: Ajuste automaticamente as configurações gráficas para melhorar o desempenho.
-- **Otimização de Rede** <i class="fa-solid fa-wifi"></i>: Reduza a latência e melhore a conexão com os servidores.
-- **Configurações Avançadas** <i class="fa-solid fa-sliders-h"></i>: Ajuste parâmetros internos para otimizações específicas.
-
----
-
-## 📊 Benchmarks de Desempenho
-
-### Antes e Depois de Usar o Valorant Booster
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Benchmark+Graph+Before+and+After" alt="Benchmark Gráfico" width="80%">
-</p>
-
-> **Notas**: Testes realizados em um sistema com CPU AMD Ryzen 5, GPU GTX 1050, 16GB RAM. Jogo testado: Valorant.
-
-### Comparativo de FPS
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=FPS+Comparison" alt="Comparativo de FPS" width="80%">
-</p>
-
-> **Média de FPS**: O FPS aumentou em até 60% após as otimizações.
+- **Otimização de Desempenho**: Melhore o FPS e otimize o uso dos recursos do sistema.
+- **Configurações Gráficas**: Ajuste as configurações gráficas do jogo para maximizar o desempenho.
+- **Otimização de Rede**: Reduza a latência para uma experiência de jogo mais fluida.
+- **Automatização de Tarefas**: Scripts automatizados para aplicar as otimizações com um clique.
 
 ---
 
 ## 📦 Instalação
 
-1. Acesse o nosso [servidor no Discord](https://amathyzin.com/discord) para baixar o Valorant Booster.
-2. Extraia o conteúdo do arquivo baixado em uma pasta de sua escolha.
-3. Execute o `ValorantBooster.bat` e siga as instruções na tela.
+1. Entre no nosso [servidor no Discord](https://amathyzin.com/discord) e baixe o **Valorant Booster** versão Batch.
+2. Extraia o arquivo em uma pasta de sua escolha.
+3. Execute o `ValorantBooster.bat` diretamente no Windows e siga as instruções na tela.
 
 ### **Requisitos**
 
@@ -89,8 +69,8 @@ O **Grupo aMathyzin** não se responsabiliza por qualquer uso indevido do softwa
 ## 🌟 Créditos
 
 - **Desenvolvedor Principal:** aMathyzin
-- **Design e Interface:** Memphis
-- **Testes e Otimizações:** aMathyzin
+- **Design e Testes:** Memphis
+- **Desenvolvimento de Otimizações:** aMathyzin
 
 <p align="center">
     <a href="https://amathyzin.com/discord" target="_blank">
